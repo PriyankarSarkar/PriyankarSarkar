@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ I am currently working on front-end web development using REACT.JS, TAILWIND CSS and BOOTSTRAP. <br>⚡ I have solved 250+ problems on LeetCode.<br>⚡ I am currently rated 2⭐️ at CodeChef.<br>⚡ My team scored a rank of 770/1212 in the ICPC Amritapuri 2022 qualifier round and a rank of 1855/2174 in the ICPC India 2021 preliminary round.<br>
+⚡ I am currently working on front-end web development using REACT.JS, TAILWIND CSS and BOOTSTRAP. <br>⚡ I have solved 250+ problems on LeetCode.<br>⚡ I am currently rated 2⭐️ at CodeChef.<br>⚡ My team scored a rank of 770/1212 in the ICPC Amritapuri 2022 qualifier round and a rank of 1855/2174 in the ICPC India 2021 prelims.<br>
 
 
 ## 🌐 Socials:
