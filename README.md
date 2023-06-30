@@ -15,17 +15,11 @@ I am currently working on front-end web development using REACT.JS, TAILWIND CSS
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=PriyankarSarkar&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=Priyankar_twits)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=PriyankarSarkar&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=PriyankarSarkar&icon=2&color=1)](https://visitcount.itsvg.in)
