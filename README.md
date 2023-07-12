@@ -19,6 +19,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=PriyankarSarkar&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=PriyankarSarkar&icon=2&color=1)](https://visitcount.itsvg.in)
-
 ![Snake animation](https://github.com/PriyankarSarkar/PriyankarSarkar/blob/output/github-contribution-grid-snake.svg)
