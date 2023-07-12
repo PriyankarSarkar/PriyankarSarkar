@@ -20,3 +20,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=PriyankarSarkar&icon=2&color=1)](https://visitcount.itsvg.in)
+
+![Snake animation](https://github.com/PriyankarSarkar/PriyankarSarkar/blob/output/github-contribution-grid-snake.svg)
