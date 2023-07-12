@@ -14,14 +14,14 @@
 
 <hr>
 
-### Coding Profiles:
+### 💻 Coding Profiles:
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/priyankar-sarkar/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/priyankar_123)
 [![CodeForces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=black)](https://codeforces.com/profile/priyankar_123)
 
 <hr>
 
-### Tech Stacks:
+### 🤖 Tech Stacks:
 
 ![Java](https://img.shields.io/badge/java-F89820?style=for-the-badge&logo=CoffeeScript&logoColor=white)
 
@@ -52,8 +52,9 @@
 
 <hr>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=PriyankarSarkar&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=PriyankarSarkar&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 
----
+<hr>
+
 ![Snake animation](https://github.com/PriyankarSarkar/PriyankarSarkar/blob/output/github-contribution-grid-snake.svg)
