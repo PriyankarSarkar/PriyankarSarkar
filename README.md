@@ -53,7 +53,7 @@
 
 <hr>
 
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=PriyankarSarkar&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+<!-- ### 📊 GitHub Stats: -->
+<!-- ![](https://github-readme-stats.vercel.app/api?username=PriyankarSarkar&theme=radical&hide_border=false&include_all_commits=true&count_private=true) -->
 
-<!-- ![Snake animation](https://github.com/PriyankarSarkar/PriyankarSarkar/blob/output/github-contribution-grid-snake.svg) -->
+![Snake animation](https://github.com/PriyankarSarkar/PriyankarSarkar/blob/output/github-contribution-grid-snake.svg)
