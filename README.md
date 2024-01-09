@@ -51,9 +51,3 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-<hr>
-
-<!-- ### 📊 GitHub Stats: -->
-<!-- ![](https://github-readme-stats.vercel.app/api?username=PriyankarSarkar&theme=radical&hide_border=false&include_all_commits=true&count_private=true) -->
-
-<!-- ![Snake animation](https://github.com/PriyankarSarkar/PriyankarSarkar/blob/output/github-contribution-grid-snake.svg) -->
